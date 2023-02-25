@@ -1,0 +1,41 @@
+body{background-color: bisque;
+    font-style: normal;
+}
+h1{
+    font-weight: bold;
+    color: rgb(52, 32, 32);
+    white-space: 1000px;
+    text-align: center;
+}
+nav{
+    width: 1000px;
+    padding:40px;
+    margin: 20px;
+    align-content:normal
+    font-size:large;
+    text-align:base;
+    color:  rgb(43, 34, 23);
+}
+
+p{
+    text-align: center;
+    color: black(132, 0, 255);
+    width: 1300px;
+    padding:40px;
+    margin: 20px;
+    align-content: center;
+    font-size:large;
+    background-color: rgb(207, 220, 154);
+}
+div{
+    width: 900px
+    padding:40px;
+    margin: 20px;
+    align-content: cente;
+    border:10px solid rgb(230, 159, 83);
+}
+article{
+    align-content: center;
+}
+
+
